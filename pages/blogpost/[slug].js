@@ -7,7 +7,9 @@ const slug = () => {
   const { slug } = router.query;
   return (
     <div className={styles.container}>
-      <main className={styles.main}>
+      <main 
+      // className={styles.main}
+      >
       <h1>Title: {slug}</h1>
       <hr />
       <div>

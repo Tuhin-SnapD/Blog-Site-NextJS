@@ -12,3 +12,7 @@
 .blogItemh3{
     cursor: pointer;
 }
+
+.blogItemhp{
+    max-width: 40vw;
+}
